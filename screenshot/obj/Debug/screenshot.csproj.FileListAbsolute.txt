@@ -1,0 +1,12 @@
+C:\Users\cem.topkaya\source\repos\screenshot\screenshot\bin\Debug\screenshot.exe.config
+C:\Users\cem.topkaya\source\repos\screenshot\screenshot\bin\Debug\screenshot.exe
+C:\Users\cem.topkaya\source\repos\screenshot\screenshot\bin\Debug\screenshot.pdb
+C:\Users\cem.topkaya\source\repos\screenshot\screenshot\obj\Debug\screenshot.csprojAssemblyReference.cache
+C:\Users\cem.topkaya\source\repos\screenshot\screenshot\obj\Debug\screenshot.Properties.Resources.resources
+C:\Users\cem.topkaya\source\repos\screenshot\screenshot\obj\Debug\screenshot.csproj.GenerateResource.cache
+C:\Users\cem.topkaya\source\repos\screenshot\screenshot\obj\Debug\screenshot.csproj.CoreCompileInputs.cache
+C:\Users\cem.topkaya\source\repos\screenshot\screenshot\obj\Debug\screenshot.exe
+C:\Users\cem.topkaya\source\repos\screenshot\screenshot\obj\Debug\screenshot.pdb
+C:\Users\cem.topkaya\source\repos\screenshot\screenshot\obj\Debug\screenshot.Form1.resources
+C:\Users\cem.topkaya\source\repos\screenshot\screenshot\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\cem.topkaya\source\repos\screenshot\screenshot\obj\Debug\screenshot.csproj.CopyComplete
